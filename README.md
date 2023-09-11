@@ -1,8 +1,8 @@
 个人博客
+暂时弃用
 
-后面再更
-
-<a href="https://lothricorange.github.io/">访问我</a>
+<a href="www.oldblamp.icu">请访问</a>
+www.oldblamp.icu
 
 
 
